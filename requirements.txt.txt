@@ -1,0 +1,6 @@
+numpy
+pandas
+matploblib
+seaborn
+torch
+vgg_pytorch
